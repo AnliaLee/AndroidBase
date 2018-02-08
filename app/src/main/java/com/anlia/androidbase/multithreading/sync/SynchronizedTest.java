@@ -1,6 +1,4 @@
-package com.anlia.androidbase.multithreading;
-
-import android.util.Log;
+package com.anlia.androidbase.multithreading.sync;
 
 /**
  * Created by anlia on 2018/1/31.

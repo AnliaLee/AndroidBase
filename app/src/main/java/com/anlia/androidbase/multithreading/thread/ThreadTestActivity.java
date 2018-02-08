@@ -1,4 +1,4 @@
-package com.anlia.androidbase.multithreading;
+package com.anlia.androidbase.multithreading.thread;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

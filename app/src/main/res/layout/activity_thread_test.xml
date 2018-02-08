@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center"
-    tools:context="com.anlia.androidbase.multithreading.ThreadTestActivity">
+    tools:context="com.anlia.androidbase.multithreading.thread.ThreadTestActivity">
     <EditText
         android:id="@+id/edit_num"
         android:layout_width="100dp"
