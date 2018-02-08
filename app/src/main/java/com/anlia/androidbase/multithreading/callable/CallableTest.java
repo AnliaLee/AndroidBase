@@ -53,6 +53,10 @@ public class CallableTest {
 //        }
         ExecutorService executor = Executors.newCachedThreadPool();
         Future<String> future = executor.submit(callable);
+
+        //或者
+        //FutureTask<String> future = new FutureTask<String>(callable);
+        //executor.execute(future);
         System.out.println("儿子站在原地" + " 时间：" + getTime());//验证主线程的执行情况
         try{
             System.out.println(future.get());
