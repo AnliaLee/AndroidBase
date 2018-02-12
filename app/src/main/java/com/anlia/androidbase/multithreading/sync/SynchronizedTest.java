@@ -43,7 +43,6 @@ public class SynchronizedTest {
                 }
             }
         }
-
     }
 
     TicketThread t1 = new TicketThread("1号业务员");
