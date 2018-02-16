@@ -13,8 +13,11 @@
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity" />
         <activity android:name=".sqlite.SQLiteTestActivity" />
-        <activity android:name=".multithreading.thread.ThreadTestActivity"></activity>
+        <activity android:name=".multithreading.thread.ThreadTestActivity" />
         <activity android:name=".handler.HandlerTestActivity">
+
+        </activity>
+        <activity android:name=".multithreading.asynctask.AsyncTaskTestActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
