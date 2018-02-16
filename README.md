@@ -10,3 +10,4 @@
 * [大话Android多线程(三) 线程间的通信机制之Handler](https://juejin.im/post/5a756b27f265da4e7d6018e6)
 * [大话Android多线程(四) Callable、Future和FutureTask](https://juejin.im/post/5a7b2c8b6fb9a0633a70eb54)
 * [大话Android多线程(五) 线程池ThreadPoolExecutor详解](https://juejin.im/post/5a7d4fb0f265da4e7071b99b)
+* [大话Android多线程(六) AsyncTask知识扫盲](https://juejin.im/post/5a85a6066fb9a06337573955)
